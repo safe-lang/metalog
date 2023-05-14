@@ -1,0 +1,9 @@
+[package]
+name = "metalog"
+version = "0.0.0"
+authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+edition = "2021"
+license = "Apache-2.0"
+description = "Explicit metadata for logs"
+
+[dependencies]
